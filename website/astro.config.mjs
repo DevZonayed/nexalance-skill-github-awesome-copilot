@@ -2,7 +2,6 @@ import sitemap from "@astrojs/sitemap";
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
 import pagefindResources from "./src/integrations/pagefind-resources";
-
 const site = "https://awesome-copilot.github.com/";
 const siteDescription =
   "Community-contributed agents, instructions, and skills to enhance your GitHub Copilot experience";
