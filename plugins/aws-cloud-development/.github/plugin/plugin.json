@@ -19,7 +19,7 @@
     "cdk"
   ],
   "agents": [
-    "./agents"
+    "."
   ],
   "skills": [
     "./skills/aws-cost-optimize",
